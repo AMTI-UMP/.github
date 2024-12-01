@@ -1,2 +1,1 @@
-# .github
-Profile about UMPwr Dev
+# Developer Universitas Muhammadiyah Purworejo
